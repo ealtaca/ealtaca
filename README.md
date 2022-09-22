@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a Android & iOS Developer working in Antalya, Turkey.
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ealtaca)](https://git.io/streak-stats)
 
 <!--
